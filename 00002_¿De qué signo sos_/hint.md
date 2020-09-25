@@ -1,0 +1,1 @@
+Un número es positivo cuando es **mayor a 0** y negativo cuando es **menor a 0**.
