@@ -1,5 +1,10 @@
 module Pepita
   @energia = 100
+
+  def self.energia
+    @energia
+    return
+  end
   
   def self.comer_lombriz!
     @energia += 20
