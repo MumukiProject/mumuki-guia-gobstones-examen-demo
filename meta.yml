@@ -1,0 +1,9 @@
+---
+name: Examen Demo
+locale: es
+type: learning
+beta: false
+language: gobstones
+id_format: "%05d"
+order: []
+private: false
