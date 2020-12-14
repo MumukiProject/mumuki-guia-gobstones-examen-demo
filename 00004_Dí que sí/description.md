@@ -1,1 +1,0 @@
-¿Te gustó el curso?
