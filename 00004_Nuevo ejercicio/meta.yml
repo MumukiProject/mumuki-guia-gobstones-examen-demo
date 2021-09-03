@@ -1,0 +1,21 @@
+---
+locale: es
+tags: []
+layout: input_primary
+editor: multiple_choice
+type: problem
+extra_visible: false
+language: text
+teacher_info: ''
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: a
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: b
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: c
+  checked: true
+name: Nuevo ejercicio
