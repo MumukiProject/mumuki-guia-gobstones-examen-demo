@@ -2,7 +2,7 @@
 locale: es
 tags: []
 layout: input_right
-editor: multiple_choice
+editor: single_choice
 type: problem
 extra_visible: false
 language: text
@@ -14,7 +14,7 @@ choices:
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: b
-  checked: true
+  checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: c
   checked: true
