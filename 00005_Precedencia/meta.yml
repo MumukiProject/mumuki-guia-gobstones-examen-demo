@@ -12,4 +12,4 @@ choices: []
 goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: last_query_matches
   regexp: \s*pagaConTarjeta\s*\(\s*true\s*,\s*"débito"\s*,\s*32\s*\)\s*
-name: Nuevo ejercicio
+name: Precedencia
